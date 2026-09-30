@@ -175,23 +175,11 @@ I'm currently working on more projects involving:
 
 ---
 
-## 🧭 My Development Journey
+## 🧭 Development Philosophy
 
 <div align="center">
 
-### 📚 Learn
-⬇️  
-### 💡 Understand
-⬇️  
-### 💻 Build
-⬇️  
-### 🐛 Break
-⬇️  
-### 🔍 Debug
-⬇️  
-### ⚡ Improve
-⬇️  
-### 🚀 Repeat
+`📖 Learn` ➔ `🧠 Understand` ➔ `🔨 Build` ➔ `⚡ Break` ➔ `🛠️ Debug` ➔ `🚀 Refactor` ➔ `🔄 Repeat`
 
 </div>
 
