@@ -53,86 +53,24 @@ I enjoy learning by **building things, experimenting with technologies, breaking
 🇷🇴 **Based in:** Romania  
 🎓 **Field:** Information Engineering  
 💻 **Main:** C++ / Python  
-⚙️ **Interested in:** Embedded Systems  
 🌐 **Exploring:** Networks & Web  
-🤖 **Curious about:** AI  
+🤖 **Curious about:** AI  & CYBERSECURITY
 🚀 **Mindset:** Learn → Build → Improve
 
 </td>
 </tr>
 </table>
 
----
+🎯 Technical Focus
 
-## 🎯 Areas of Interest
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-* Software Architecture
-* Software Design
-* Programming Paradigms
-* Software Development
-* Clean & Maintainable Code
-* Problem Solving
-
-### ⚙️ Embedded Systems
-* Microcontrollers
-* Hardware & Software Integration
-* Low-Level Programming
-* Real-Time Systems
-* Embedded Applications
-
-### 🌐 Web Development
-* Web Programming
-* Web Applications
-* Backend Development
-* APIs
-* Modern Web Technologies
-
-### 🌍 Computer Networks
-* Network Architecture
-* Network Protocols
-* Distributed Systems
-* Communication Systems
-* Network Security
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & Intelligent Systems
-* Neural Networks
-* Intelligent Algorithms
-* Genetic Algorithms
-* Machine Learning Concepts
-* Digital Signal Processing
-
-### 🔐 Cybersecurity
-* Network Security
-* Secure Systems
-* Application Security
-* Security Fundamentals
-* Information Security
-
-### 🧮 Algorithms & Data Structures
-* Algorithm Design
-* Data Structures
-* Complexity Analysis
-* Problem Solving
-* Optimization
-
-### 📡 IoT & Smart Devices
-* Internet of Things
-* Connected Devices
-* Sensors & Systems
-* Embedded IoT
-* Smart Technologies
-
-</td>
-</tr>
-</table>
+| Category | Skills & Focus Areas |
+| :--- | :--- |
+| 💻 **Software Engineering** | `Architecture` `Design Patterns` `Clean Code` `OOP & Paradigms` |
+| ⚙️ **Embedded & IoT** | `Microcontrollers` `RTOS` `Low-Level Programming` `Sensors & Devices` |
+| 🌐 **Web Development** | `Backend Architecture` `REST APIs` `Full-Stack Web` `Modern Frameworks` |
+| 🤖 **AI & Intelligence** | `Neural Networks` `Genetic Algorithms` `ML Concepts` `DSP` |
+| 🔐 **Cybersecurity** | `Network Security` `App Sec` `Secure Architecture` `InfoSec` |
+| 🧮 **Algorithms & Nets** | `Data Structures` `Optimization` `Distributed Systems` `Protocols` |
 
 ---
 
