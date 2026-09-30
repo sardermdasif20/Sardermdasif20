@@ -64,59 +64,74 @@ I enjoy learning by **building things, experimenting with technologies, breaking
 
 ---
 
-#🎯 Areas of Interest
-<table> <tr> <td width="50%" valign="top">
-💻 Software Engineering
-Software Architecture
-Software Design
-Programming Paradigms
-Software Development
-Clean & Maintainable Code
-Problem Solving
-⚙️ Embedded Systems
-Microcontrollers
-Hardware & Software Integration
-Low-Level Programming
-Real-Time Systems
-Embedded Applications
-🌐 Web Development
-Web Programming
-Web Applications
-Backend Development
-APIs
-Modern Web Technologies
-🌍 Computer Networks
-Network Architecture
-Network Protocols
-Distributed Systems
-Communication Systems
-Network Security
-</td> <td width="50%" valign="top">
-🤖 AI & Intelligent Systems
-Neural Networks
-Intelligent Algorithms
-Genetic Algorithms
-Machine Learning Concepts
-Digital Signal Processing
-🔐 Cybersecurity
-Network Security
-Secure Systems
-Application Security
-Security Fundamentals
-Information Security
-🧮 Algorithms & Data Structures
-Algorithm Design
-Data Structures
-Complexity Analysis
-Problem Solving
-Optimization
-📡 IoT & Smart Devices
-Internet of Things
-Connected Devices
-Sensors & Systems
-Embedded IoT
-Smart Technologies
-</td> </tr> </table>
+## 🎯 Areas of Interest
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Software Engineering</h3>
+      <ul>
+        <li>Software Architecture & Design</li>
+        <li>Programming Paradigms</li>
+        <li>Software Development Life Cycle</li>
+        <li>Clean & Maintainable Code</li>
+        <li>Advanced Problem Solving</li>
+      </ul>
+
+      <h3>⚙️ Embedded Systems</h3>
+      <ul>
+        <li>Microcontrollers & Hardware Integration</li>
+        <li>Low-Level Programming</li>
+        <li>Real-Time Operating Systems (RTOS)</li>
+        <li>Embedded Applications</li>
+      </ul>
+
+      <h3>🌐 Web Development</h3>
+      <ul>
+        <li>Web Programming & Applications</li>
+        <li>Backend Development & APIs</li>
+        <li>Modern Web Technologies</li>
+      </ul>
+
+      <h3>🌍 Computer Networks</h3>
+      <ul>
+        <li>Network Architecture & Protocols</li>
+        <li>Distributed Systems</li>
+        <li>Communication Systems</li>
+        <li>Network Security</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Intelligent Systems</h3>
+      <ul>
+        <li>Neural Networks & Machine Learning</li>
+        <li>Intelligent & Genetic Algorithms</li>
+        <li>Digital Signal Processing (DSP)</li>
+      </ul>
+
+      <h3>🔐 Cybersecurity</h3>
+      <ul>
+        <li>Network & Application Security</li>
+        <li>Secure Systems Design</li>
+        <li>Security Fundamentals & InfoSec</li>
+      </ul>
+
+      <h3>🧮 Algorithms & Data Structures</h3>
+      <ul>
+        <li>Algorithm Design & Optimization</li>
+        <li>Complex Data Structures</li>
+        <li>Complexity Analysis</li>
+      </ul>
+
+      <h3>📡 IoT & Smart Devices</h3>
+      <ul>
+        <li>Internet of Things (IoT)</li>
+        <li>Connected Devices & Sensors</li>
+        <li>Embedded IoT Solutions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
