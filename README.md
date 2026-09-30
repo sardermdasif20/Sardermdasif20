@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -66,75 +66,77 @@ I enjoy learning by **building things, experimenting with technologies, breaking
 
 ## 🎯 Areas of Interest
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Software Engineering</h3>
-      <ul>
-        <li>Software Architecture & Design</li>
-        <li>Programming Paradigms</li>
-        <li>Software Development Life Cycle</li>
-        <li>Clean & Maintainable Code</li>
-        <li>Advanced Problem Solving</li>
-      </ul>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-      <h3>⚙️ Embedded Systems</h3>
-      <ul>
-        <li>Microcontrollers & Hardware Integration</li>
-        <li>Low-Level Programming</li>
-        <li>Real-Time Operating Systems (RTOS)</li>
-        <li>Embedded Applications</li>
-      </ul>
+### 💻 Software Engineering
+* Software Architecture
+* Software Design
+* Programming Paradigms
+* Software Development
+* Clean & Maintainable Code
+* Problem Solving
 
-      <h3>🌐 Web Development</h3>
-      <ul>
-        <li>Web Programming & Applications</li>
-        <li>Backend Development & APIs</li>
-        <li>Modern Web Technologies</li>
-      </ul>
+### ⚙️ Embedded Systems
+* Microcontrollers
+* Hardware & Software Integration
+* Low-Level Programming
+* Real-Time Systems
+* Embedded Applications
 
-      <h3>🌍 Computer Networks</h3>
-      <ul>
-        <li>Network Architecture & Protocols</li>
-        <li>Distributed Systems</li>
-        <li>Communication Systems</li>
-        <li>Network Security</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI & Intelligent Systems</h3>
-      <ul>
-        <li>Neural Networks & Machine Learning</li>
-        <li>Intelligent & Genetic Algorithms</li>
-        <li>Digital Signal Processing (DSP)</li>
-      </ul>
+### 🌐 Web Development
+* Web Programming
+* Web Applications
+* Backend Development
+* APIs
+* Modern Web Technologies
 
-      <h3>🔐 Cybersecurity</h3>
-      <ul>
-        <li>Network & Application Security</li>
-        <li>Secure Systems Design</li>
-        <li>Security Fundamentals & InfoSec</li>
-      </ul>
+### 🌍 Computer Networks
+* Network Architecture
+* Network Protocols
+* Distributed Systems
+* Communication Systems
+* Network Security
 
-      <h3>🧮 Algorithms & Data Structures</h3>
-      <ul>
-        <li>Algorithm Design & Optimization</li>
-        <li>Complex Data Structures</li>
-        <li>Complexity Analysis</li>
-      </ul>
+</td>
+<td width="50%" valign="top">
 
-      <h3>📡 IoT & Smart Devices</h3>
-      <ul>
-        <li>Internet of Things (IoT)</li>
-        <li>Connected Devices & Sensors</li>
-        <li>Embedded IoT Solutions</li>
-      </ul>
-    </td>
-  </tr>
+### 🤖 AI & Intelligent Systems
+* Neural Networks
+* Intelligent Algorithms
+* Genetic Algorithms
+* Machine Learning Concepts
+* Digital Signal Processing
+
+### 🔐 Cybersecurity
+* Network Security
+* Secure Systems
+* Application Security
+* Security Fundamentals
+* Information Security
+
+### 🧮 Algorithms & Data Structures
+* Algorithm Design
+* Data Structures
+* Complexity Analysis
+* Problem Solving
+* Optimization
+
+### 📡 IoT & Smart Devices
+* Internet of Things
+* Connected Devices
+* Sensors & Systems
+* Embedded IoT
+* Smart Technologies
+
+</td>
+</tr>
 </table>
+
 ---
 
-# 🎓 Academic Background
+## 🎓 Academic Background
 
 ### 💻 Software & Computing
 
@@ -142,7 +144,7 @@ I enjoy learning by **building things, experimenting with technologies, breaking
 |---|---|
 | 🧮 **Algorithms** | Algorithm Design, Data Structures, Problem Solving |
 | 💻 **Programming** | C++, Python, Rust, Programming Paradigms |
-| 🏗️ **Software** | Software Engineering, Software Design, Development Methods |
+| 🏗️️ **Software** | Software Engineering, Software Design, Development Methods |
 | 🔀 **Programming Paradigms** | Functional Programming |
 | 🧠 **Computer Science** | Formal Languages & Compilers |
 
@@ -168,25 +170,22 @@ I enjoy learning by **building things, experimenting with technologies, breaking
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-## 🧪 C++ Playground
+### 🧪 C++ Playground
 
 A collection of **C++ experiments, programming exercises, algorithms, and small projects**.
 
-### Focus
-
-- C++ fundamentals
-- Object-oriented programming
-- Algorithms
-- Data structures
-- Problem solving
-- Programming experiments
+**Focus:**
+* C++ fundamentals
+* Object-oriented programming
+* Algorithms & Data structures
+* Problem solving
 
 <br>
 
@@ -198,16 +197,16 @@ A collection of **C++ experiments, programming exercises, algorithms, and small 
 
 <td width="50%" valign="top">
 
-## 🚧 More Coming Soon...
+### 🚧 More Coming Soon...
 
 I'm currently working on more projects involving:
 
-- ⚙️ Embedded Systems
-- 🌐 Computer Networks
-- 🧮 Algorithms
-- 🐍 Python
-- 🤖 Intelligent Systems
-- 🌍 Web Development
+* ⚙️ Embedded Systems
+* 🌐 Computer Networks
+* 🧮 Algorithms
+* 🐍 Python
+* 🤖 Intelligent Systems
+* 🌍 Web Development
 
 **Building one project at a time.**
 
@@ -218,7 +217,7 @@ I'm currently working on more projects involving:
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -238,7 +237,7 @@ I'm currently working on more projects involving:
 
 ---
 
-# 🧭 My Development Journey
+## 🧭 My Development Journey
 
 <div align="center">
 
@@ -260,12 +259,12 @@ I'm currently working on more projects involving:
 
 ---
 
-# 🎯 What I'm Working Towards
+## 🎯 What I'm Working Towards
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center">
 
 ### 💻 Software
 
@@ -273,7 +272,7 @@ Building stronger foundations in software engineering, algorithms and system des
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center">
 
 ### ⚙️ Systems
 
@@ -281,7 +280,7 @@ Getting deeper into embedded systems, architecture, networking and low-level pro
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center">
 
 ### 🤖 Intelligence
 
@@ -294,7 +293,7 @@ Exploring AI, intelligent systems and how algorithms can solve real-world proble
 
 ---
 
-# 💬 Philosophy
+## 💬 Philosophy
 
 <div align="center">
 
@@ -308,7 +307,7 @@ Exploring AI, intelligent systems and how algorithms can solve real-world proble
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
