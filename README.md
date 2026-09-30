@@ -1,56 +1,62 @@
 <div align="center">
 
-# 👋 Hi, I'm **Asif**!
+# Hi, I'm **Asif** 👋
 
-### 🎓 Information Engineering Student @ POLITEHNICA Bucharest 🇷🇴
+### Information Engineering Student @ POLITEHNICA Bucharest 🇷🇴
 
-<p>
-  <a href="https://github.com/sardermdasif20">
-    <img src="https://img.shields.io/badge/GitHub-sardermdasif20-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Information%20Engineering-UPB-0A66C2?style=for-the-badge" alt="Information Engineering">
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-22C55E?style=for-the-badge" alt="Learning and Building">
-</p>
+**Software • Embedded Systems • Networks • Algorithms • AI**
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering;Embedded+Systems;Algorithms+%26+Data+Structures;Web+Development;AI+%26+Intelligent+Systems" alt="Typing animation">
-</p>
+<br>
+
+<a href="https://github.com/sardermdasif20">
+  <img src="https://img.shields.io/badge/GitHub-sardermdasif20-0d1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/sardermdasif20?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-238636?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+one+step+at+a+time;Exploring+Embedded+Systems;Learning+Algorithms+%26+Computer+Networks;Experimenting+with+AI+%26+Intelligent+Systems;Turning+ideas+into+projects+%F0%9F%9A%80">
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Information Engineering at POLITEHNICA Bucharest (UPB)**
-- 🇧🇩 From **Bangladesh** | 🇷🇴 Currently studying in Romania
-- 💻 Working with **C++, Python, MATLAB & Rust**
-- 🔧 Interested in **Software Engineering & Embedded Systems**
-- 🌐 Exploring **Web Development, Networks & Distributed Systems**
-- 🤖 Learning more about **AI & Intelligent Systems**
-- 🌱 Always learning something new by building projects
-- 🚀 Building, experimenting, debugging, and improving — one step at a time
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm an **Information Engineering student at POLITEHNICA University of Bucharest**, interested in understanding how software, hardware, and intelligent systems work together.
+
+I enjoy learning by **building things, experimenting with technologies, breaking things, debugging them, and improving them**.
+
+### Currently
+
+- 🎓 Studying **Information Engineering @ UPB**
+- 💻 Working with **C++, Python, Rust & MATLAB**
+- ⚙️ Exploring **Embedded Systems**
+- 🌐 Learning **Computer Networks & Distributed Systems**
+- 🧠 Exploring **AI & Intelligent Systems**
+- 🛠️ Building projects and programming experiments
+- 🌱 Always learning something new
 
 </td>
 
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-## 🎯 Interests
+### ⚡ Quick Facts
 
-- 💻 Software Engineering
-- ⚙️ Embedded Systems
-- 🌐 Web Development
-- 🌍 Computer Networks
-- 🤖 AI & Intelligent Systems
-- 🔐 Cybersecurity
-- 🧮 Algorithms & Data Structures
-- 📡 IoT & Smart Devices
-
-> *"Technology is not just about code, it's about solving real-world problems."*
+🇧🇩 **From:** Bangladesh  
+🇷🇴 **Based in:** Romania  
+🎓 **Field:** Information Engineering  
+💻 **Main:** C++ / Python  
+⚙️ **Interested in:** Embedded Systems  
+🌐 **Exploring:** Networks & Web  
+🤖 **Curious about:** AI  
+🚀 **Mindset:** Learn → Build → Improve
 
 </td>
 </tr>
@@ -58,109 +64,148 @@
 
 ---
 
-## 🎓 Academic Background
+# 🧠 Areas of Interest
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
+
+### 💻
+**Software Engineering**
+
+Clean code, software design, programming paradigms and development.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+**Embedded Systems**
+
+Hardware, low-level programming, IoT and smart devices.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+**Networks**
+
+Computer networks, distributed systems and communication.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**Intelligent Systems**
+
+AI, neural networks, algorithms and intelligent applications.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,rust,matlab" height="55">
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="55">
+</p>
+
+### 📚 Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,arduino" height="55">
+</p>
+
+---
+
+# 🎓 Academic Background
 
 ### 💻 Software & Computing
 
-- Algorithm Design
-- Programming Paradigms
-- Functional Programming
-- Software Engineering
-- Software Design Techniques
-- Software Development Methods
-- Formal Languages & Compilers
+| Area | Topics |
+|---|---|
+| 🧮 **Algorithms** | Algorithm Design, Data Structures, Problem Solving |
+| 💻 **Programming** | C++, Python, Rust, Programming Paradigms |
+| 🏗️ **Software** | Software Engineering, Software Design, Development Methods |
+| 🔀 **Programming Paradigms** | Functional Programming |
+| 🧠 **Computer Science** | Formal Languages & Compilers |
 
 ### 🌐 Systems & Networks
 
-- Computer Architecture
-- Computer Networks
-- Distributed & Parallel Algorithms
-- Integrated Security Solutions
+| Area | Topics |
+|---|---|
+| 🖥️ **Computer Systems** | Computer Architecture |
+| 🌐 **Networking** | Computer Networks |
+| ⚡ **Distributed Systems** | Distributed & Parallel Algorithms |
+| 🔐 **Security** | Integrated Security |
 
-</td>
+### 🚀 Modern Technologies
 
-<td width="50%" valign="top">
-
-### 🌍 Modern Technologies
-
-- Internet of Things (IoT)
-- Web Programming
-- Web & Semantic Web Applications
-- Mobile Application Development
-- Human-Computer Interaction
-
-### 🤖 Intelligent Systems
-
-- Neural Networks & Genetic Algorithms
-- Bioinformatics
-- Digital Signal Processing
-
-</td>
-</tr>
-</table>
+| Area | Topics |
+|---|---|
+| 📡 **IoT** | Internet of Things |
+| 🌍 **Web** | Web Programming & Web Applications |
+| 📱 **Mobile** | Mobile Application Development |
+| 🤖 **Intelligent Systems** | Neural Networks & Genetic Algorithms |
+| 🧬 **Research** | Bioinformatics |
+| 📊 **Signal Processing** | Digital Signal Processing |
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,rust,matlab" alt="C++, Python, Rust, MATLAB">
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux, VS Code">
-</p>
-
----
-
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
-### 🔹 C++ Playground
+## 🧪 C++ Playground
 
-A collection of C++ mini-projects, experiments, programming exercises, and problem-solving practice.
+A collection of **C++ experiments, programming exercises, algorithms, and small projects**.
 
-**Topics include:**
+### Focus
 
 - C++ fundamentals
+- Object-oriented programming
+- Algorithms
+- Data structures
 - Problem solving
-- Algorithms & data structures
-- Mini projects
-- Programming exercises
+- Programming experiments
 
-</td>
-
-<td width="30%" align="center" valign="middle">
+<br>
 
 <a href="https://github.com/sardermdasif20/cpp-playground">
-
-<img src="https://img.shields.io/badge/View-Repository-58A6FF?style=for-the-badge&logo=github">
-
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
-</tr>
+<td width="50%" valign="top">
 
-<tr>
+## 🚧 More Coming Soon...
 
-<td colspan="2">
+I'm currently working on more projects involving:
 
-### 🚧 More Projects Coming Soon...
+- ⚙️ Embedded Systems
+- 🌐 Computer Networks
+- 🧮 Algorithms
+- 🐍 Python
+- 🤖 Intelligent Systems
+- 🌍 Web Development
 
-Currently building and experimenting with new ideas across software, embedded systems, networking, and intelligent technologies.
+**Building one project at a time.**
 
 </td>
 
@@ -169,17 +214,124 @@ Currently building and experimenting with new ideas across software, embedded sy
 
 ---
 
-## 🧭 What I'm Learning
+# 📊 GitHub Activity
 
-```text
-📚 Learning
-     ↓
-💻 Building
-     ↓
-🐛 Debugging
-     ↓
-🔍 Understanding
-     ↓
-⚡ Improving
-     ↓
-🚀 Building Better
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sardermdasif20&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="180">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sardermdasif20&theme=github-dark-blue&hide_border=true" height="180">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardermdasif20&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="170">
+
+</div>
+
+---
+
+# 🧭 My Development Journey
+
+<div align="center">
+
+### 📚 Learn
+⬇️  
+### 💡 Understand
+⬇️  
+### 💻 Build
+⬇️  
+### 🐛 Break
+⬇️  
+### 🔍 Debug
+⬇️  
+### ⚡ Improve
+⬇️  
+### 🚀 Repeat
+
+</div>
+
+---
+
+# 🎯 What I'm Working Towards
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 💻 Software
+
+Building stronger foundations in software engineering, algorithms and system design.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Systems
+
+Getting deeper into embedded systems, architecture, networking and low-level programming.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 Intelligence
+
+Exploring AI, intelligent systems and how algorithms can solve real-world problems.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💬 Philosophy
+
+<div align="center">
+
+> **"Don't just learn how technology works — build something with it."**
+
+<br>
+
+### Learn → Build → Break → Debug → Improve
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/sardermdasif20">
+<img src="https://img.shields.io/badge/GitHub-sardermdasif20-181717?style=for-the-badge&logo=github">
+</a>
+
+<br><br>
+
+**Open to collaboration, interesting projects, ideas, and learning opportunities.**
+
+<br>
+
+⭐ Feel free to explore my repositories!
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+<img src="https://komarev.com/ghpvc/?username=sardermdasif20&style=flat-square&color=58A6FF&label=Profile+Views">
+
+<br><br>
+
+`Building today. Learning tomorrow. Improving every day.` 🚀
+
+</div>
