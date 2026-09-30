@@ -64,69 +64,59 @@ I enjoy learning by **building things, experimenting with technologies, breaking
 
 ---
 
-# 🧠 Areas of Interest
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 💻
-**Software Engineering**
-
-Clean code, software design, programming paradigms and development.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-**Embedded Systems**
-
-Hardware, low-level programming, IoT and smart devices.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-**Networks**
-
-Computer networks, distributed systems and communication.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-**Intelligent Systems**
-
-AI, neural networks, algorithms and intelligent applications.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,rust,matlab" height="55">
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="55">
-</p>
-
-### 📚 Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,arduino" height="55">
-</p>
+#🎯 Areas of Interest
+<table> <tr> <td width="50%" valign="top">
+💻 Software Engineering
+Software Architecture
+Software Design
+Programming Paradigms
+Software Development
+Clean & Maintainable Code
+Problem Solving
+⚙️ Embedded Systems
+Microcontrollers
+Hardware & Software Integration
+Low-Level Programming
+Real-Time Systems
+Embedded Applications
+🌐 Web Development
+Web Programming
+Web Applications
+Backend Development
+APIs
+Modern Web Technologies
+🌍 Computer Networks
+Network Architecture
+Network Protocols
+Distributed Systems
+Communication Systems
+Network Security
+</td> <td width="50%" valign="top">
+🤖 AI & Intelligent Systems
+Neural Networks
+Intelligent Algorithms
+Genetic Algorithms
+Machine Learning Concepts
+Digital Signal Processing
+🔐 Cybersecurity
+Network Security
+Secure Systems
+Application Security
+Security Fundamentals
+Information Security
+🧮 Algorithms & Data Structures
+Algorithm Design
+Data Structures
+Complexity Analysis
+Problem Solving
+Optimization
+📡 IoT & Smart Devices
+Internet of Things
+Connected Devices
+Sensors & Systems
+Embedded IoT
+Smart Technologies
+</td> </tr> </table>
 
 ---
 
