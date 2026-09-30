@@ -132,7 +132,6 @@ I enjoy learning by **building things, experimenting with technologies, breaking
     </td>
   </tr>
 </table>
-
 ---
 
 # 🎓 Academic Background
