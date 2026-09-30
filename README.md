@@ -244,35 +244,15 @@ Exploring AI, intelligent systems and how algorithms can solve real-world proble
 </div>
 
 ---
-
-## 🤝 Let's Connect
-
 <div align="center">
+
+<h2>🤝 Let's Connect</h2>
 
 <a href="https://github.com/sardermdasif20">
-<img src="https://img.shields.io/badge/GitHub-sardermdasif20-181717?style=for-the-badge&logo=github">
+  <img src="https://badgen.net/badge/GitHub/sardermdasif20/black?icon=github&scale=1.5" alt="GitHub" />
 </a>
 
-<br><br>
-
-**Open to collaboration, interesting projects, ideas, and learning opportunities.**
-
-<br>
-
-⭐ Feel free to explore my repositories!
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! 👋
-
-<img src="https://komarev.com/ghpvc/?username=sardermdasif20&style=flat-square&color=58A6FF&label=Profile+Views">
-
-<br><br>
-
-`Building today. Learning tomorrow. Improving every day.` 🚀
+<p><b>Open to collaboration, projects, and learning.</b></p>
+<p>⭐ <i>Feel free to explore my repositories!</i></p>
 
 </div>
